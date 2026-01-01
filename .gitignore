@@ -1,0 +1,15 @@
+# General
+.DS_Store
+Thumbs.db
+*.log
+*.tmp
+
+# Editors
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# PHP
+vendor/
+composer.lock
